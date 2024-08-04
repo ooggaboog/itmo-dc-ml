@@ -17,6 +17,7 @@ ITMO University Digital culture module course
 10. **Ensemble methods** [->](9-ensembles)
     - Random Forest, Voting, Bagging, Gradient Boosting, AdaBoost, Stacking
 11. **Reinforcement learning** [->](https://github.com/ooggaboog/itmo-dc-ml/tree/009d64d6e641d0bb0b1a8dc4bbf901f67b6501b2/10-reinforcement%20learning)
+### [Final project](https://github.com/ooggaboog/crop-recommendation-ml) 
 
 ---
 
