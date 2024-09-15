@@ -2,6 +2,7 @@
 ITMO University Digital culture module course
 
 ### Content:
+[**Colab notebook with all tasks (+extra tasks for preparation**)](https://colab.research.google.com/drive/1x5rxMwr6Ub6OVrHr3_MOjWI4iqBHWKMy?usp=sharing)
 1. **Tools (Pandas)** [->](1-pandas)
 2. **Principal component analysis (PCA)** [->](2-pca)
 3. **Linear regression (simple & multiple)*** [->](https://github.com/ooggaboog/itmo-dc-ml/tree/009d64d6e641d0bb0b1a8dc4bbf901f67b6501b2/3-linear%20regression)
