@@ -1,26 +1,22 @@
-# Machine Learning and Data Analysis
-ITMO University Digital culture module course
+# Машинное обучение и анализ данных
+ИТМО университет курс модуля Цифровой культуры
 
-### Content:
-[**Colab notebook with all tasks (+extra tasks for preparation**)](https://colab.research.google.com/drive/1x5rxMwr6Ub6OVrHr3_MOjWI4iqBHWKMy?usp=sharing)
-1. **Tools (Pandas)** [->](1-pandas/1.ipynb)
-2. **Principal component analysis (PCA)** [->](2-pca)
-3. **Linear regression (simple & multiple)** [->](3-linear-regression)
-4. **Classification task: k-NN & Naive Bayes*** [->](4-classification)
-   - k-Nearest Neighbors method
-   - Naive Bayes Classifier
-5. **Classification task: Logistic regression**** [->](5-logistic-regression)
-6. **Classification task: Support Vector Machine (SVM)** [->](6-svm)
-8. **Classification task: Decision Tree Classifier** [->](7-decision-tree)
-9. **Clustering** [->](8-clustering)
-   - k-Means method
-   - Gaussian mixture
-10. **Ensemble methods** [->](9-ensembles)
+### Содержание:
+[**Блокнот в Google Colab со всеми заданиями (+дополнительные задания для подготовки**)](https://colab.research.google.com/drive/1x5rxMwr6Ub6OVrHr3_MOjWI4iqBHWKMy?usp=sharing)
+1. **Инструменты (Pandas)** [->](1-pandas/1.ipynb)
+2. **Метод главных компонент (PCA)** [->](2-pca)
+3. **Линейная регрессия (простейшая и множественная)** [->](3-linear-regression)
+4. **Задача классификации: k-NN и наивный байесовский классификатор** [->](4-classification)
+   - Метод k-ближайших соседей
+   - Наивный байесовский классификатор
+5. **Задача классификации: логистическая регрессия** [->](5-logistic-regression)
+6. **Задача классификации: метод опорных векторов** [->](6-svm)
+8. **Задача классификации: деревья принятия решений** [->](7-decision-tree)
+9. **Кластеризация** [->](8-clustering)
+   - Метод К-средних
+   - Гауссовы смеси
+10. **Ансамблевые методы** [->](9-ensembles)
     - Random Forest, Voting, Bagging, Gradient Boosting, AdaBoost, Stacking
-11. **Reinforcement learning** [->](10-reinforcement-learning)
+11. **Обучение с подкреплением** [->](10-reinforcement-learning)
 
 ### [Final project](https://github.com/ooggaboog/crop-recommendation-ml) 
-
----
-
-\* need to add tasks with k-nn(4) and logistic regression(5) predictions
