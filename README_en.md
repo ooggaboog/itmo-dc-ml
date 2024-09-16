@@ -1,3 +1,4 @@
+[русская вер.](README.md)
 # Machine Learning and Data Analysis
 ITMO University Digital culture module course
 
