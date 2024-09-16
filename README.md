@@ -5,8 +5,8 @@ ITMO University Digital culture module course
 [**Colab notebook with all tasks (+extra tasks for preparation**)](https://colab.research.google.com/drive/1x5rxMwr6Ub6OVrHr3_MOjWI4iqBHWKMy?usp=sharing)
 1. **Tools (Pandas)** [->](1-pandas/1.ipynb)
 2. **Principal component analysis (PCA)** [->](2-pca)
-3. **Linear regression (simple & multiple)*** [->](3-linear-regression)
-4. **Classification task: k-NN & Naive Bayes**** [->](4-classification)
+3. **Linear regression (simple & multiple)** [->](3-linear-regression)
+4. **Classification task: k-NN & Naive Bayes*** [->](4-classification)
    - k-Nearest Neighbors method
    - Naive Bayes Classifier
 5. **Classification task: Logistic regression**** [->](5-logistic-regression)
@@ -23,6 +23,4 @@ ITMO University Digital culture module course
 
 ---
 
-\* the algorithm of Linear regression prediction can be improved to show better r2_score
-
-** need to add tasks with k-nn(4) and logistic regression(5) predictions
+\* need to add tasks with k-nn(4) and logistic regression(5) predictions
