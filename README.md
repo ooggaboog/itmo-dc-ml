@@ -1,4 +1,3 @@
-[english ver.](README_en.md)
 # Машинное обучение и анализ данных
 ИТМО университет курс модуля Цифровой культуры
 
@@ -20,4 +19,4 @@
     - Random Forest, Voting, Bagging, Gradient Boosting, AdaBoost, Stacking
 11. **Обучение с подкреплением** [->](10-reinforcement-learning)
 
-### [Final project](https://github.com/ooggaboog/crop-recommendation-ml) 
+### [Итоговый проект](https://github.com/ooggaboog/crop-recommendation-ml) 
